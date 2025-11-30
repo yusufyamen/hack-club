@@ -9,3 +9,10 @@ body {
     background-color: aquamarine;
 }
 
+.cat-image {
+    width: 100px
+}
+
+a:hover {
+    color: black
+}
